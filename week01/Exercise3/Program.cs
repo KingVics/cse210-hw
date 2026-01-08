@@ -18,17 +18,17 @@ class Program
 
             if(guessNumber > number)
             {
-                Console.WriteLine("Higher");
+                Console.WriteLine("Lower");
             } 
             else if(guessNumber < number)
             {
-                Console.WriteLine("Lower"); 
+                Console.WriteLine("Higher"); 
             } 
             else
             {
                Console.WriteLine("You guessed it!"); 
                Console.WriteLine($"It took you {guesses} to get the magic number"); 
-               Console.Write("Do you want to play again? Enter Yes/No");
+               Console.Write("Do you want to play again? Enter Yes/No ");
                startWord = Console.ReadLine();
 
                if(startWord.ToLower() == "yes")
