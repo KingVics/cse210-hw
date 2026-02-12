@@ -1,0 +1,3 @@
+Score|-40
+Events|2
+NegativeGoal|No social media|Avoid endless scrolling|20|2
