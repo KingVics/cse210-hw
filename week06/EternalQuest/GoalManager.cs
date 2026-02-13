@@ -356,8 +356,7 @@ public class GoalManager
                 return new SimpleGoal(
                     parts[1],
                     parts[2],
-                    int.Parse(parts[3]),
-                    bool.Parse(parts[4]));
+                    int.Parse(parts[3]));
             case "EternalGoal":
                 return new EternalGoal(
                     parts[1],

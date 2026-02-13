@@ -1,4 +1,6 @@
-Score|650
+Score|1250
+Events|5
 SimpleGoal|Read scriptures|30 min daily|100|True
 EternalGoal|Pray|Morning prayer|50
 ChecklistGoal|Wash my hand|hygiene |100|3|200|3
+SimpleGoal|Simple test|test|100|True
